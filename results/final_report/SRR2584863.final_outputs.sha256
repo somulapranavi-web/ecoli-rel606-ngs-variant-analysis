@@ -1,0 +1,4 @@
+f4324a8b9539d033b87d0a005ccc4aada9699d5d05cd3ffcd5b8923f416bc1b7  results/vcf/SRR2584863.snpeff.vcf.gz
+a97b46e1debb0c2deb0c50e01096d9a0b37d726ec1fc856ec60c90ab5eb836bb  results/vcf/SRR2584863.snpeff.vcf.gz.tbi
+eb7d4d70ff73f488b247320898fa5377883ccf646226327fda0d9ed502a5cba7  results/vcf/SRR2584863.variant_effects_primary.tsv
+e511b93e608f7978effd70eb5188aee0a621ac226a20f19a00b2d1f0c073e426  results/vcf/SRR2584863.frameshift_pileup_qc.txt

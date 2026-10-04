@@ -1,0 +1,22 @@
+CHROM	POS	REF	ALT	QUAL	DP	EFFECT	IMPACT	GENE	GENE_ID	FEATURE	BIOTYPE	HGVS_C	HGVS_P
+NC_012967.1	9972	T	G	225.417	83	missense_variant	MODERATE	satP	gene-ECB_RS00055	transcript	protein_coding	c.521A>C	p.Asn174Thr
+NC_012967.1	281923	G	T	225.417	75	intergenic_region	MODIFIER	ecpR-ykgL	gene-ECB_RS01330-gene-ECB_RS01335	intergenic_region		n.281923G>T	
+NC_012967.1	433359	CTTTTTTT	CTTTTTTTT	228.365	83	intergenic_region	MODIFIER	lon-hupB	gene-ECB_RS02050-gene-ECB_RS02055	intergenic_region		n.433366_433367insT	
+NC_012967.1	473901	CCGC	CCGCGC	228.394	72	frameshift_variant	HIGH	ybaL	gene-ECB_RS02245	transcript	protein_coding	c.1401_1402insGC	p.Ala469fs
+NC_012967.1	648692	C	T	225.417	92	missense_variant	MODERATE	mrdB	gene-ECB_RS03140	transcript	protein_coding	c.206G>A	p.Arg69His
+NC_012967.1	1331794	C	A	225.417	53	missense_variant	MODERATE	topA	gene-ECB_RS06635	transcript	protein_coding	c.2375C>A	p.Thr792Lys
+NC_012967.1	1733343	G	A	225.417	94	missense_variant	MODERATE	pykF	gene-ECB_RS08685	transcript	protein_coding	c.379G>A	p.Asp127Asn
+NC_012967.1	2333538	AT	ATT	228.385	80	intergenic_region	MODIFIER	gene-ECB_RS25075-nuoN	gene-ECB_RS25075-gene-ECB_RS11590	intergenic_region		n.2333539_2333540insT	
+NC_012967.1	2446984	A	C	225.417	110	missense_variant	MODERATE	gene-ECB_RS26305	gene-ECB_RS26305	transcript	protein_coding	c.18T>G	p.Ile6Met
+NC_012967.1	2665639	A	T	225.417	105	missense_variant	MODERATE	rplS	gene-ECB_RS13175	transcript	protein_coding	c.299T>A	p.Leu100Gln
+NC_012967.1	2999330	G	A	225.417	94	intergenic_region	MODIFIER	gene-ECB_RS14795-gene-ECB_RS14800	gene-ECB_RS14795-gene-ECB_RS14800	intergenic_region		n.2999330G>A	
+NC_012967.1	3339313	A	C	225.417	97	missense_variant	MODERATE	fis	gene-ECB_RS16485	transcript	protein_coding	c.152A>C	p.Tyr51Ser
+NC_012967.1	3401754	C	A	225.417	100	missense_variant	MODERATE	rpsG	gene-ECB_RS16890	transcript	protein_coding	c.233G>T	p.Arg78Leu
+NC_012967.1	3481820	A	G	225.417	71	missense_variant	MODERATE	malT	gene-ECB_RS17295	transcript	protein_coding	c.136A>G	p.Thr46Ala
+NC_012967.1	3488669	A	C	225.417	61	missense_variant	MODERATE	gene-ECB_RS17315	gene-ECB_RS17315	transcript	protein_coding	c.538T>G	p.Ser180Ala
+NC_012967.1	3901455	A	AC	225.417	16	frameshift_variant	HIGH	mdtD	gene-ECB_RS19235	transcript	protein_coding	c.964_965insG	p.Leu322fs
+NC_012967.1	3909807	G	T	225.417	84	intergenic_region	MODIFIER	hdfR-maoP	gene-ECB_RS19275-gene-ECB_RS19280	intergenic_region		n.3909807G>T	
+NC_012967.1	4100183	A	G	225.417	91	missense_variant	MODERATE	hslU	gene-ECB_RS20235	transcript	protein_coding	c.1048T>C	p.Ser350Pro
+NC_012967.1	4201958	A	C	225.417	75	missense_variant	MODERATE	iclR	gene-ECB_RS20685	transcript	protein_coding	c.602T>G	p.Leu201Arg
+NC_012967.1	4431393	TGG	T	228.388	77	frameshift_variant	HIGH	tamB	gene-ECB_RS21780	transcript	protein_coding	c.3526_3527delGG	p.Gly1176fs
+NC_012967.1	4616538	A	C	225.417	91	missense_variant	MODERATE	nadR	gene-ECB_RS22740	transcript	protein_coding	c.1010A>C	p.Tyr337Ser

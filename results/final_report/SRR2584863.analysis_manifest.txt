@@ -1,0 +1,24 @@
+Project: SRR2584863 variant analysis against Escherichia coli REL606
+Generated: 2026-10-04T05:14:38+00:00
+
+=== Software versions ===
+samtools 1.24
+bcftools 1.24
+bedtools v2.31.1
+SnpEff	5.3a	2025-09-02
+openjdk version "21.0.10-internal" 2026-01-20
+
+=== Final result files ===
+-rw-r--r-- 1 pranavi pranavi 203M Oct  3 12:07 results/bam/SRR2584863.sorted.bam
+-rw-r--r-- 1 pranavi pranavi  15K Oct  3 12:11 results/bam/SRR2584863.sorted.bam.bai
+-rw-r--r-- 1 pranavi pranavi 1.2K Oct  4 05:13 results/vcf/SRR2584863.frameshift_pileup_qc.txt
+-rw-r--r-- 1 pranavi pranavi  150 Oct  4 05:10 results/vcf/SRR2584863.frameshift_sites.bed
+-rw-r--r-- 1 pranavi pranavi 7.1K Oct  3 13:17 results/vcf/SRR2584863.snpeff.vcf.gz
+-rw-r--r-- 1 pranavi pranavi  367 Oct  3 13:19 results/vcf/SRR2584863.snpeff.vcf.gz.tbi
+-rw-r--r-- 1 pranavi pranavi 2.9K Oct  3 13:19 results/vcf/SRR2584863.variant_effects_primary.tsv
+
+=== Final variant counts ===
+Total variants:	21
+Missense variants:	13
+Frameshift variants:	3
+Intergenic variants:	5

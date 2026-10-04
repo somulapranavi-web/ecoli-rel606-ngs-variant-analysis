@@ -1,0 +1,19 @@
+Manual pileup QC of SnpEff-predicted frameshift variants
+Reference: Escherichia coli REL606, NC_012967.1
+Alignment: results/bam/SRR2584863.sorted.bam
+Method: samtools mpileup with minimum mapping quality 20 and base quality 20
+
+1. ybaL, NC_012967.1:473901, CCGC>CCGCGC
+   SnpEff: c.1401_1402insGC; p.Ala469fs; HIGH impact.
+   Pileup: repeated +2CG/+2cg calls at the variant anchor, supported by reads in both orientations.
+   Conclusion: Strong bidirectional read support for the 2-bp insertion.
+
+2. mdtD, NC_012967.1:3901455, A>AC
+   SnpEff: c.964_965insG; p.Leu322fs; HIGH impact.
+   Pileup: 13 reads passed quality thresholds at the anchor; all displayed +1C/+1c insertion support.
+   Conclusion: Strong support for the 1-bp insertion among quality-filtered reads. The C/G representation difference reflects reverse-strand transcript orientation.
+
+3. tamB, NC_012967.1:4431393, TGG>T
+   SnpEff: c.3526_3527delGG; p.Gly1176fs; HIGH impact.
+   Pileup: repeated -2GG/-2gg calls at the variant anchor, supported in both orientations; deleted bases represented by * at positions 4431394-4431395.
+   Conclusion: Strong bidirectional read support for the 2-bp deletion.

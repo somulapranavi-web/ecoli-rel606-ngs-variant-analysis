@@ -1,0 +1,24 @@
+# Raw sequencing and alignment files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bam.bai
+*.cram
+*.crai
+
+# Reference indexes and generated database files
+*.fai
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+*.bin
+
+# Temporary files and local logs
+*.tmp
+*.log
+__pycache__/
+.DS_Store
